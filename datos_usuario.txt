@@ -1,1 +1,3 @@
 “Usuario=liveuser”
+model name	: AMD Ryzen 5 9600X 6-Core Processor
+
